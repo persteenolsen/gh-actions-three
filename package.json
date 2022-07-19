@@ -1,0 +1,16 @@
+{
+  "name": "gh-actions-three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "homepage": "https://persteenolsen.github.io/gh-actions-three/",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
